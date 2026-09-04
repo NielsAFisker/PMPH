@@ -10,6 +10,10 @@
 -- output { 1i32 }
 -- compiled input { [1i32, 2i32, 3i32, 4i32, 5i32] }
 -- output { 5i32 }
+-- "10M-elements" compiled input @ lssp-10m.in
+-- output @ lssp-sorted-10m.out
+-- "50M-elements" compiled input @ lssp-50m.in
+-- output @ lssp-sorted-50m.out
 
 import "lssp"
 import "lssp-seq"
