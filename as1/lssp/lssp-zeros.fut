@@ -5,13 +5,9 @@
 -- compiled input {
 --    [1i32, -2, -2, 0, 0, 0, 0, 0, 3, 4, -6, 1]
 -- }
--- output {
---    5
--- }
---
+-- output { 5 }
 -- compiled input { [0i32, 0i32, 0i32, 0i32] }
 -- output { 4i32 }
---
 -- compiled input { [1i32, 2i32, 3i32] }
 -- output { 0i32 }
 
